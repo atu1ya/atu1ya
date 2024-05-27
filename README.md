@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atu1ya
 - 👀 I’m interested in Python, Java and machine learning
-- 🏫 I am a year Software Engineering student at The University of Western Australia
+- 🏫 I am a first year Software Engineering student at The University of Western Australia
 - 🌱 I’m currently learning Python and Java, and would love to learn more
 - 📫 How to reach me: @atu1ya on instagram or atulyac10@yahoo.com
 
